@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/abyss-conspiracy-points/precache-manifest.5ca5fcf39cf683faa8ab19eb000de5fe.js"
+  "/abyss-conspiracy-points/precache-manifest.ad0dbff95b072a0c1ea1b540cd00fe97.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "abyss-conspiracy-points"});
