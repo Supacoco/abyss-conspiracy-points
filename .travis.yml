@@ -10,7 +10,7 @@ script:
 
 deploy:
   provider: pages:git
-  skip_cleanup: true
+  cleanup: false
   token: $TRAVIS_GITHUB_TOKEN
   edge: true
   local_dir: dist
